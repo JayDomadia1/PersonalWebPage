@@ -93,7 +93,7 @@ hr {
   height: 600px;
 }
 .techExpRow {
-  width: 30%;
+  width:fit-content;
   margin: auto;
   text-align: center;
 }
